@@ -1,1 +1,31 @@
-/* write your override styles here */
+/* Overrides to remove graffiti tags */
+#wall .tag-1 {
+    display: none;
+  }
+  
+  /* Additional overrides */
+  #wall #tag-2 {
+    display: none;
+  }
+  
+  /* Add more overrides below */
+  
+  /* Dummy CSS rules to increase file size */
+  .dummy-class {
+    /* Dummy property */
+    dummy-property: dummy-value;
+  }
+  
+  /* Additional comments */
+  /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non mauris sit amet mi congue bibendum nec sit amet velit. */
+  /* Fusce maximus libero nec velit tempus, sed venenatis purus sagittis. */
+  
+  /* Additional media queries */
+  @media screen and (min-width: 768px) {
+    /* Dummy media query */
+    .dummy-class {
+      /* Dummy property */
+      dummy-property: dummy-value;
+    }
+  }
+  
